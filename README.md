@@ -8,6 +8,8 @@ Vejamos um resumo do que foi abordado ao longo das aulas 🎓:
 4. Utilizando Seeds 💡
 5. Regressão Linear 🚀
 6. Funções de Agregação 🖥️
+
+
 O Numpy é uma ferramenta poderosa que será fundamental em nossos futuros projetos de ciência de dados. Continuaremos a aprimorar nossas habilidades e aplicá-las em cenários do mundo real.
 
 Vamos avançar e continuar explorando o vasto mundo da análise de dados e programação com Python! 🐍
